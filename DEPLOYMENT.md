@@ -10,9 +10,9 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | (điền họ tên) |
-| Mã học viên | (điền mã học viên) |
-| Repo | (điền link repo K4-L3B-DAY12-HoVaTen-MSSV-CloudServicesAndDeployment) |
+| Họ và tên | Nguyễn Gia Khánh |
+| Mã học viên | 2A202602851 |
+| Repo | https://github.com/Khanh-AI-Developer/K4-L3B-Day12-NguyenGiaKhanh-2A202602851-Cloud-Service-And-Deployment |
 
 ## Service
 
